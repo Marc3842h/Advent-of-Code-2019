@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Marc3842h/Advent-of-Code-2019/day3"
+	"github.com/Marc3842h/Advent-of-Code-2019/day4"
 )
 
 func main() {
-	day3.PartA()
-	day3.PartB()
+	day4.PartA()
+	day4.PartB()
 }
